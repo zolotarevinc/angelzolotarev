@@ -7,4 +7,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
+  base: '/angelzolotarev/', // Укажите имя вашего репозитория
 });
